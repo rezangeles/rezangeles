@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my final project.
 - 🌱 I’m currently learning Business Intelligence and Data Analytics.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with enhancing my skills in healthcare analysis.
